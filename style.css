@@ -1,0 +1,21 @@
+
+.bg-color-custom{
+    background-color: #264653;
+}
+.text-color{
+    color: white;
+}
+.btn-primary-custom{
+    background-color: #E76F51;
+    color: white;
+    width: 148px;
+    height: 44px;
+    border: none;
+    border-radius: 5px;
+}
+.img-gry{
+    filter: grayscale(100%);
+}
+span , .fa-star{
+    color: #E76F51;
+}
